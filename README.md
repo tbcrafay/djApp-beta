@@ -11,3 +11,24 @@
 4. You will also learn how to set up a PostgreSQL database and how to deploy your Django project to the world.
 
 ![image](https://github.com/user-attachments/assets/4a310fdc-2e2b-4696-8c3e-65c2db51cafa)
+
+## This consists of 8 modules:
+
+1. Beginning Django:
+
+         setting up the enivronment.
+         creating the project
+         creating the app
+         integrating the app and other resources to django 
+         learning and handling (views, templates, models (database) and urls)
+
+2. Display Data:
+
+3. Admin
+
+4. Django Syntax
+5. QuerySets
+6. Static Files
+7. PostgreSQL
+8. Deploy django project
+

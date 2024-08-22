@@ -23,7 +23,14 @@
          learning and handling (views, templates, models (database) and urls)
 
 2. Display Data:
-
+         
+         Prep template and view
+         add links to details
+         add master template
+         add main index page
+         django 404 template
+         add test view
+         
 3. Admin
 
 4. Django Syntax

@@ -33,9 +33,38 @@
          
 3. Admin
 
+         Django Admin
+         Create User
+         Include Models
+         Set List Display
+         Update members
+         Add members
+         Delete members
+         
 4. Django Syntax
+
+         django variables
+         django tags
+         django if else
+         django for loops
+         django comment
+         django include
+
 5. QuerySets
+
+         queryset intro
+         queryset Get
+         queryset filter
+         queryset order by
+
 6. Static Files
+
+         Add Static Files
+         install Whitenoise
+         collect static files
+         add global static files
+         Add styles to the project
+         
 7. PostgreSQL
 8. Deploy django project
 
